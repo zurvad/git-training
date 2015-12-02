@@ -1,0 +1,3 @@
+[submodule "schooling"]
+	path = schooling
+	url = git@github.com:ezefarina/schooling.git
